@@ -1,0 +1,5 @@
+streamlit
+snscrape
+pandas
+base64
+pymongo
